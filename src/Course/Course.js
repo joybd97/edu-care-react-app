@@ -27,8 +27,8 @@ const Course = (props) => {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Buy Now</Button>
+        <Button size="small">Details</Button>
+        <Button size="small">Buy Now!</Button>
       </CardActions>
     </Card>
     );
