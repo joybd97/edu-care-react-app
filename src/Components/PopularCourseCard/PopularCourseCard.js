@@ -15,6 +15,7 @@ const PopularCourseCard = (props) => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum molestiae animi tempore molestias voluptatibus possimus asperiores consectetur cupiditate, libero nihil.
                 </Card.Text>
                 <Button variant="primary">Learn More</Button>
+                
             </Card.Body>
              
             <Card.Footer className="text-muted" style={{color:'white'}}>Edu-Care</Card.Footer>
